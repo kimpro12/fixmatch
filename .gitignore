@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.pt
+data/
+outputs/
+.pytest_cache/
+.hypothesis/
+*.log
+report/figures/
+report/figures_full/
+report/results/
